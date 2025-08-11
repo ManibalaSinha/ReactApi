@@ -7,6 +7,8 @@ A React-based web application that fetches and displays user data from the GitHu
 (https://vercel.com/manibala-sinhas-projects-273c5a77/react-api)
 Build & Deploy a Stunning Reactjs UI Step by Step (Full Tutorial + Free Hosting)
 https://youtu.be/b9sXeF8frGk
+Task Manager App with React | Add, Edit, Filter & Save Tasks to Local Storage
+https://youtu.be/JY_qrMxq-mM
 ---
 
 ## 🧠 Features
